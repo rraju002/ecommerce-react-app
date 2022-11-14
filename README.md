@@ -1,12 +1,6 @@
 # Rojo's Spot! E-Commerce Site
 
 ## Description
-<br/>
-<div align="center">
-<img alt="Demo" src= "public/mockup.png"/>
-</div>
-<br/>
-<br/>
 
 An Ecommerce website built via MERN!
 ![badge](https://img.shields.io/badge/license-undefined-brightorange)
