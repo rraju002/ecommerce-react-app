@@ -9,7 +9,7 @@ function Header() {
     <>
       <div className="header__container">
         <Link to="/" className="logo">
-          e-Shop
+          Rojo's Spot
         </Link>
         <div className="nav__right">
           <div className="my__accout">
