@@ -13,7 +13,7 @@ function App() {
 
   const fetchData = async () => {
     setLoading(true);
-    const response = await axios.get("https://fakestoreapi.com/products");
+    const response = await axios.get("https://api.escuelajs.co/api/v1/products");
     setItemsData(response.data);
     setLoading(false);
   };
