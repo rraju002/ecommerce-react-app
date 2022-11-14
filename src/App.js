@@ -13,7 +13,7 @@ function App() {
 
   const fetchData = async () => {
     setLoading(true);
-    const response = await axios.get("https://api.escuelajs.co/api/v1/products");
+    const response = await axios.get("https://jsonblob.com/api/jsonBlob/1041573880095064064" );
     setItemsData(response.data);
     setLoading(false);
   };

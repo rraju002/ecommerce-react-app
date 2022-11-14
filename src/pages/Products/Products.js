@@ -14,7 +14,7 @@ function Products({ itemsData, loading }) {
       <div className="searchBar">
         <input
           type="text"
-          placeholder="Serach products.."
+          placeholder="Search products.."
           onChange={(event) => {
             setSerachKey(event.target.value);
           }}
