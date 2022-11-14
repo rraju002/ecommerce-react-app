@@ -1,22 +1,42 @@
-# ecommerce-react-app
+# Rojo's Spot! E-Commerce Site
 
-### Demo
-
-[https://ecommerce-react-app.vercel.app/](https://ecommerce-react-app.vercel.app/)
-
-![](markdown/desktop.png)
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-## Search Filter
-
-search filter is based on string comparison, input string will be matched with product title and return a new array with matched string
-
-for ex. search SSD or shirt.
+## Description
+An Ecommerce website built via MERN!
+![badge](https://img.shields.io/badge/license-undefined-brightorange)
+## Table of Contents
+  * [Installation](#installation)
+  * [Contribution](#contribution)
+  * [Testing](#testing)
+  * [Questions](#questions)
+  * [License](#license)
+    
+    
+## Installation
+    
+  _Follow these steps to properly install this application:_
+  run "npm i" then "npm start" followed by "npm run build"
+      
+## Contribution
+  _If you would like to contribute, please adhere to these guidelines:_
+  fork the repo!
+      
+## Testing
+  _Instructions for testing application:_
+  n/a
+      
+## Questions
+      
+  _For further questions:_
+  Feel free to contact me via email rraju002@ucr.edu
+  
+  _Contact Info:_
+  GitHub: [undefined](https://github.com/undefined)
+  Email: [rraju002@ucr.edu](mailto:rraju002@ucr.edu)
+    
+## License
+      
+  _This application has the undefined._
+      
+  For more information please view the [license description]().
+  
+  
