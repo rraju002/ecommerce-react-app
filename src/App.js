@@ -4,7 +4,7 @@ import Cart from "./pages/Cart/Cart";
 import Header from "./components/Header/Header";
 import Products from "./pages/Products/Products";
 import { CartProvider } from "react-use-cart";
-import { Switch, Route, Redirect } from "react-router-dom";
+import { BrowserRouter as Switch, Route, Redirect } from "react-router-dom";
 import axios from "axios";
 
 function App() {
