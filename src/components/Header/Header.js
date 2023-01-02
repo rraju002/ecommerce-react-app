@@ -9,7 +9,7 @@ function Header() {
     <>
       <div className="header__container">
         <Link to="/" className="logo">
-          Rojo's Spot
+          Playerz Choice!
         </Link>
         <div className="nav__right">
           <div className="my__accout">
