@@ -36,7 +36,7 @@ element.style {
 .price {
   font-size: 13.5px;
 
-  color: rgb(218, 54, 54);
+  color: white;
 }
 .addtoCart {
   margin-top: 7px;
@@ -49,7 +49,7 @@ element.style {
   transition: 0.1s ease-in-out;
 }
 .addtoCart:hover {
-  background: rgb(218, 54, 54);
+  background: #ff8164;
 }
 
 .addtoCart:active {

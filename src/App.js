@@ -6,8 +6,11 @@ import Products from "./pages/Products/Products";
 import { CartProvider } from "react-use-cart";
 import { BrowserRouter as Switch, Route, Redirect } from "react-router-dom";
 import axios from "axios";
+import React from 'react';
+
 
 function App() {
+  
   const [itemsData, setItemsData] = useState([]);
   const [loading, setLoading] = useState(false);
 
@@ -21,6 +24,7 @@ function App() {
   useEffect(() => {
     fetchData();
   }, []);
+  
 
   return (
     <div className="App">
@@ -38,6 +42,7 @@ function App() {
         </CartProvider>
         <Redirect to="/" />
       </Switch>
+      
     </div>
   );
 }

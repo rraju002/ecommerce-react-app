@@ -1,4 +1,4 @@
-element.style {
+.element.style {
   background: black;
 }
 .container {
@@ -108,4 +108,9 @@ element.style {
     padding-bottom: 10px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.199);
   }
+/* set background color //
+/* set font color */    
+body {
+  background-color: red;
+} 
 }
