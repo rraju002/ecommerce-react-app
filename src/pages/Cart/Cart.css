@@ -85,7 +85,7 @@
   transition: 0.2s ease;
 }
 .checkOut:hover {
-  background: rgb(218, 54, 54);
+  background: #ff8164;
 }
 
 .caption {
@@ -93,7 +93,7 @@
 }
 
 .active {
-  color: rgb(218, 54, 54);
+  color: #ff8164;
 }
 .arrow {
   width: 25px;
@@ -111,6 +111,6 @@
 /* set background color //
 /* set font color */    
 body {
-  background-color: red;
+  background-color: #ff8164;
 } 
 }
