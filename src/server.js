@@ -42,6 +42,8 @@ app.post('/create-payment-intent', async (req, res) => {
 }
 });
 
+app.get('/config', (req, res) => {
+    res.json({publishableKey: process.env.STRIPE_PUBLISHABLE_KEY});
 
 app.get('/', (req, res) => {
   const path = resolve(process.env.STATIC_DIR + '/index.html');
