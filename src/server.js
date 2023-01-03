@@ -28,12 +28,19 @@ app.use(
 //add one new server endpoint to handle the payment intent creation
 app.post('/create-payment-intent', async (req, res) => {
     // Create a PaymentIntent with the order amount and currency
+   try {
     const paymentIntent = await stripe.paymentIntents.create({
         amount: 1999,
         currency: 'usd'
+        payment_method_types: [paymentMethodType],
 });
     res.json({clientSecret: paymentIntent.client_secret});
+} catch(e) {
+    res.status(400).json({ error: {message: e.message}});
+}
 });
+
+
 app.get('/', (req, res) => {
   const path = resolve(process.env.STATIC_DIR + '/index.html');
   res.sendFile(path);
