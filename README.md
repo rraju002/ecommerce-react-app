@@ -1,4 +1,4 @@
-# Rojo's Spot! E-Commerce Site
+# PlayerzChoice! E-Commerce Site
 
 ## Description
 <img width="1691" alt="Screen Shot 2022-11-13 at 10 58 32 PM" src="https://user-images.githubusercontent.com/105147266/201595046-774d4cf3-0f16-4460-84d0-97dcce1447c5.png">

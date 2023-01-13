@@ -2,11 +2,15 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
-// import { BrowserRouter } from "react-router-dom";
+
+// App.use(express.static(path.join(__dirname, "client/build")));
+
+// App.get("*", (req, res) => {
+//   res.sendFile(path.join(__dirname + "/client/build/index.html"));
+// });
+
 ReactDOM.render(
-  // <BrowserRouter>
-  //   <App />
-  // </BrowserRouter>,
+
 < React.StrictMode>
 <App/>
 </React.StrictMode>,
