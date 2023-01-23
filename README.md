@@ -38,11 +38,6 @@ An Ecommerce website built via MERN!
   _Contact Info:_
   GitHub: [Rhowen Raju GitHub](https://github.com/rraju002)
   Email: [rraju002@ucr.edu](mailto:rraju002@ucr.edu)
-    
-## License
-      
-  _This application has the undefined._
-      
-  For more information please view the [license description]().
+
   
   
