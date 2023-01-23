@@ -1,7 +1,8 @@
 # PlayerzChoice! E-Commerce Site
 
 ## Description
-<img width="1143" alt="Screen Shot 2023-01-23 at 1 37 52 PM" src="https://user-images.githubusercontent.com/105147266/214155950-39e01266-c046-4849-8ab0-8b76276dc3eb.png">
+<img width="1147" alt="Screen Shot 2023-01-23 at 1 46 12 PM" src="https://user-images.githubusercontent.com/105147266/214157126-724a41c5-a4fd-457e-97ab-4d7f74c539bb.png">
+
 
 <img width="1143" alt="Screen Shot 2023-01-23 at 1 37 52 PM" src="https://user-images.githubusercontent.com/105147266/214155950-39e01266-c046-4849-8ab0-8b76276dc3eb.png">
 
