@@ -3,7 +3,7 @@
 ## Description
 <img width="1143" alt="Screen Shot 2023-01-23 at 1 37 52 PM" src="https://user-images.githubusercontent.com/105147266/214155950-39e01266-c046-4849-8ab0-8b76276dc3eb.png">
 
-<img width="1687" alt="Screen Shot 2022-11-13 at 10 59 10 PM" src="https://user-images.githubusercontent.com/105147266/201595186-d2d8f498-091a-4956-b582-4e57aa36e6ad.png">
+<img width="1143" alt="Screen Shot 2023-01-23 at 1 37 52 PM" src="https://user-images.githubusercontent.com/105147266/214155950-39e01266-c046-4849-8ab0-8b76276dc3eb.png">
 
 
 An Ecommerce website built via MERN!
