@@ -14,7 +14,6 @@ An Ecommerce website built via MERN!
   * [Contribution](#contribution)
   * [Testing](#testing)
   * [Questions](#questions)
-  * [License](#license)
     
     
 ## Installation
