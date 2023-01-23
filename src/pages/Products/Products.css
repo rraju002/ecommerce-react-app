@@ -40,8 +40,9 @@ element.style {
 }
 .addtoCart {
   margin-top: 7px;
-  background: #000;
-  color: antiquewhite;
+  background: black;
+  color: #808080
+  ;
   cursor: pointer;
   outline: none;
   border: 0;
@@ -49,7 +50,9 @@ element.style {
   transition: 0.1s ease-in-out;
 }
 .addtoCart:hover {
-  background: #ff8164;
+  background: white
+
+;
 }
 
 .addtoCart:active {
@@ -61,16 +64,21 @@ element.style {
   margin-right: auto;
   margin-left: auto;
   margin-top: 2rem;
+  color: #808080
+  ;
   margin-bottom: 3rem;
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #86898b2a;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 0 0 5px black  ;
 }
 
 input[type="text"] {
   width: 100%;
-  background: #86898b2a;
+  background: #808080
+  ;
   outline: none;
   border: 0;
   height: 100%;

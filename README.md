@@ -35,7 +35,7 @@ An Ecommerce website built via MERN!
   Feel free to contact me via email rraju002@ucr.edu
   
   _Contact Info:_
-  GitHub: [undefined](https://github.com/undefined)
+  GitHub: [Rhowen Raju GitHub](https://github.com/rraju002)
   Email: [rraju002@ucr.edu](mailto:rraju002@ucr.edu)
     
 ## License

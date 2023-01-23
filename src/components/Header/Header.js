@@ -8,9 +8,10 @@ function Header() {
   return (
     <>
       <div className="header__container">
-        <Link to="/" className="logo">
+        <Link to="/" className="logo"> 
           Playerz Choice!
         </Link>
+        <div className="header-center">
         <div className="nav__right">
           <div className="my__accout">
             <UserCircle size={25} />
@@ -27,6 +28,7 @@ function Header() {
             </div>
           </Link>
         </div>
+      </div>
       </div>
     </>
   );
